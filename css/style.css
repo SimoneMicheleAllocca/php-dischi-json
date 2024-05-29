@@ -1,0 +1,18 @@
+body {
+    background-color: #1d3d3c;
+} 
+.navbar {
+    background-color: #061f1f; 
+}
+
+.fa-brands {
+    color: #18d860; 
+}
+
+.card {
+    background-color: #112038; 
+}
+
+button {
+    background: none;
+}
